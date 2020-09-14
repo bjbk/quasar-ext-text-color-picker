@@ -1,0 +1,12 @@
+<img src="https://img.shields.io/npm/v/quasar-ui-text-color-picker.svg?label=quasar-ui-text-color-picker">
+<img src="https://img.shields.io/npm/v/quasar-app-extension-text-color-picker.svg?label=quasar-app-extension-text-color-picker">
+
+# Structure
+* [/ui](ui) - standalone npm package
+* [/app-extension](app-extension) - Quasar app extension
+
+# Donate
+If you appreciate the work that went into this project, please consider [donating to Quasar](https://donate.quasar.dev).
+
+# License
+MIT (c) Bob Kuivanen
